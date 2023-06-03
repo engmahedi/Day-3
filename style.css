@@ -3,3 +3,8 @@ div{
   height: 100px;
   background-color: blueviolet;
 }
+
+img{
+  background-color: rgb(28, 28, 83);
+  width: 200px;
+}
